@@ -1,1 +1,1 @@
-empty for now
+A backend clone of Airbnb, dubbed Hbnb
